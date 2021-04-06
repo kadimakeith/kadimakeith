@@ -8,7 +8,7 @@ I'm a student geospatial engineer focused on developing useful solutions to meet
 
 - 👯 I’m looking to collaborate on: anything and everything interesting💡
 - 💬 Ask me about : Python, HTML, CSS, JS
-- 🌱 I’m currently learning : Ruby, API Integration, Matlab.
+- 🌱 I’m currently learning : Ruby, API Integration, Matlab, NodeJs.
 - 📫 How to reach me: 
   * keithkadima@gmail.com 
   * www.linkedin.com/in/kadimakeith
