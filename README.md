@@ -14,7 +14,7 @@ I'm a student geospatial engineer focused on developing useful solutions to meet
   * www.linkedin.com/in/kadimakeith
 - ⚡ Fun fact: Sum of all naturals numbers till infinity is -1/12!😁
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadimakeith&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  
  
