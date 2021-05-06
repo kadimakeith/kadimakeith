@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=200 height=200 />  
+</div>
 
 <h3 align="left">Hi there 👋👋 </h3>
 
